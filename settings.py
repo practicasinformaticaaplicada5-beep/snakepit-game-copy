@@ -5,7 +5,7 @@ WIDTH = 600
 HEIGHT = 400
 
 # Tamaño de cada bloque de la serpiente y la comida
-BLOCK_SIZE = 10
+BLOCK_SIZE = 20
 
 # Velocidad del juego (Frames Per Second)
 FPS = 12
