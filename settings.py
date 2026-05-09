@@ -15,4 +15,4 @@ WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 RED = (213, 50, 80)
 GREEN = (0, 255, 0)
-YELLOW = (255, 255, 0)
+CYELLOW = (222, 222, 0)  #Prefiero el amarillo oscuro
